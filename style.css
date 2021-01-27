@@ -52,3 +52,11 @@ p {
 .links:hover {
     background-color: Turquoise;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-size: 30px;
+}
